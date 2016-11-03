@@ -4,7 +4,7 @@ This is so much fun when it works better than mine is right now.
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
-fdsa
+asdf
 
 You can play the game at: http://jero5765.github.io/github-games/
 
